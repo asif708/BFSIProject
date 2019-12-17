@@ -1,9 +1,9 @@
-This is myFile1...welcome to git..!!!
+//This is myFile1...welcome to git..!!!
 class MyClass{
 
-main(){
+public static main(String [] args){
 
-sysout("Hello Git...!!!");
+System.out.println("Hello Git...!!!");
 }
 
 }
