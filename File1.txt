@@ -2,9 +2,9 @@
 
 class MyClass{
 
-	void greetMethod(){
+	void greetMethod(String str){
 	
-		sysout("Welcome to git...Git Is amazing!!!");	
+		System.out.println(str);	
 	
 	}
 		
