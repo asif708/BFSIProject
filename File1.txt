@@ -3,7 +3,7 @@
 class MyClass{
 
 
-	String greetMethod(String str){
+	static String greetMethod(String str){
 	
 		System.out.println(str);
 
@@ -13,7 +13,7 @@ class MyClass{
 		
 	public static main(String [] args){
 
-		
+		greetMehtod("Hello Git...Welcome...!!!");
 	
 	}
 
