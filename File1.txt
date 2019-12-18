@@ -1,9 +1,11 @@
 //This is myFile1...welcome to git..!!!
+
 class MyClass{
 
-public static main(String [] args){
+	public static main(String [] args){
 
-System.out.println("Hello Git...!!!");
-}
+		System.out.println("Hello Git...Git is amazing!!!");
+	
+	}
 
 }
