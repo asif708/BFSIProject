@@ -2,9 +2,12 @@
 
 class MyClass{
 
-	void greetMethod(String str){
+
+	String greetMethod(String str){
 	
-		System.out.println(str);	
+		System.out.println(str);
+
+	return str;	
 	
 	}
 		
