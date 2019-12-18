@@ -2,9 +2,15 @@
 
 class MyClass{
 
+	void greetMethod(){
+	
+		sysout("Welcome to git...Git Is amazing!!!");	
+	
+	}
+		
 	public static main(String [] args){
 
-		System.out.println("Hello Git...Git is amazing!!!");
+		
 	
 	}
 
